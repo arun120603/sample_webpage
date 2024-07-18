@@ -1,0 +1,38 @@
+body{
+    
+    background-color:black;
+       
+
+}
+.akr{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    
+    
+}
+.footer{
+   
+    padding: 200px;
+    
+}
+.card{
+    text-align: center;
+    background:white;
+    
+}
+.container{
+    
+    padding: 50px;
+}
+.item-nav:hover{
+    color:red;
+}
+.card{
+    max-width: 450px;
+    height: auto;
+}
+.image-fluid{
+    
+    width: 380px;
+   height: 380px;
+}
